@@ -1,0 +1,22 @@
+ul {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+ul>li>a {
+    text-decoration: none;
+
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.heading{
+    text-align: center;
+    /* font-size: large; */
+}
